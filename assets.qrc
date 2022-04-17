@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/background.json</file>
+        <file>assets/faceDtecFrame.json</file>
+        <file>assets/run-login.json</file>
+        <file>assets/scan-face.json</file>
+        <file>assets/scan-matrix.json</file>
+        <file>assets/voice.json</file>
+        <file>assets/monitor.json</file>
+        <file>assets/advice.json</file>
+        <file>assets/heart.json</file>
+        <file>assets/pressure.json</file>
+        <file>assets/mask.json</file>
+    </qresource>
+</RCC>
